@@ -1,7 +1,7 @@
 # Automation-Python-
 
 
-# MCIT Careers Test Automation
+# Careerportal Test Automation
 
 This repository contains a Python test script using SeleniumBase to automate the following tasks on the MCIT Careers website:
 1. Register a new candidate
