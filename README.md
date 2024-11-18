@@ -3,7 +3,7 @@
 
 # Careerportal Test Automation
 
-This repository contains a Python test script using SeleniumBase to automate the following tasks on the MCIT Careers website:
+This repository contains a Python test script using SeleniumBase to automate the following tasks on the carrerportal Careers website:
 1. Register a new candidate
 2. Apply for a job
 
@@ -20,8 +20,8 @@ This repository contains a Python test script using SeleniumBase to automate the
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/mcit-careers-automation.git
-    cd mcit-careers-automation
+    git clone https://github.com/your-username/carrerportal-careers-automation.git
+    cd carrerportal-careers-automation
     ```
 
 2. **Run the test script:**
@@ -34,7 +34,7 @@ This command will execute the test script and generate an HTML report (`report.h
 ### Test Description
 
 The test script performs the following steps:
-1. Opens the MCIT Careers website
+1. Opens the carrerportal Careers website
 2. Registers a new candidate with dynamically generated data
 3. Selects the "Fill the profile manually" option
 ###pending
